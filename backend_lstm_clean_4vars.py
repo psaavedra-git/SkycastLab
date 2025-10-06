@@ -112,7 +112,7 @@ MODEL_DIR = "./models"
 OUTPUT_DIR = "./outputs"
 
 # --- Fechas por defecto ---
-START_DATE = "2025-01-05"
+START_DATE = "2019-10-05"
 END_DATE = "2025-10-05"
 
 np.random.seed(RANDOM_SEED)
